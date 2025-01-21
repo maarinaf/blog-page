@@ -24,18 +24,19 @@ Um blog moderno e responsivo focado em notícias do mercado de criptomoedas, des
 - Inovação
 
 ## Estrutura do Projeto 
-
+```
 criptoblog/
 │
 ├── index.html
 ├── styles.css
 └── index.js
+```
 
 ## Como Usar
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/criptoblog.git
+git clone https://github.com/maarinaf/criptoblog.git
 ```
 2. Navegue até o diretório do projeto:
 ```bash
